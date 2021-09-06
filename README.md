@@ -1,1 +1,1 @@
-![Jahan Taila's github stats](https://github-readme-stats.vercel.app/api?username=jahantaila&hide=stars&theme=tokyonight&count_private=true&include_all_commits=true)
+[![Jahan Taila's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahantaila)](https://github.com/anuraghazra/github-readme-stats)
