@@ -9,6 +9,7 @@ My name is Jahan, I'm a high school student who wants to help the world by creat
 * Full-Stack Web Development 
 * Java App Development  
 * Wide variety of softwares and frameworks, including Django & Bootstrap
+* Artifical Intelligence & Machine Learning - specializing in Deep Learning Frameworks
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jahantaila&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
