@@ -1,5 +1,5 @@
 ![Jahan Taila's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahantaila&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=True)
-![test](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![test](https://komarev.com/ghpvc/?username=jahantaila&label=PROFILE+VIEWS)
 
 ## Hey there! 👋
 
