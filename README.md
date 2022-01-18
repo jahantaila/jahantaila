@@ -1,5 +1,6 @@
 ![Jahan Taila's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahantaila&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=True)
-![](https://komarev.com/ghpvc/?username=jahantaila)
+![test](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+
 ## Hey there! 👋
 
 My name is Jahan, I'm a high school student who wants to help the world by creating meaningful and innovative software 
