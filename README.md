@@ -4,7 +4,7 @@
 
 My name is Jahan, I'm a high school student who wants to help the world by creating meaningful and innovative software 
 
-[GitHub Profile Views Counter]: https://github.com/jahantaila/github-profile-views-counter&style=flat-square
+![test](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
 
 #### My Skills
 * Full-Stack Web Development 
