@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahantaila&label=Profile%20views&color=0e75b6&style=flat" alt="jahantaila" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahantaila" alt="jahantaila" /></a> </p>
 
 - 🔭 I’m currently working on [Science Fair](https://github.com/jahantaila/9th-Science-Fair)
 
