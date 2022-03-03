@@ -2,7 +2,8 @@
 <h3 align="center">A creative software developer and high school student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahantaila&label=Profile%20views&color=0e75b6&style=flat" alt="jahantaila" /> </p>
-![Jahan Taila's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahantaila&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=True)
+
+<p><img align="center" src = "https://github-readme-stats.vercel.app/api?username=jahantaila&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=True"
 
 
 - 🔭 I’m currently working on [Science Fair](https://github.com/jahantaila/9th-Science-Fair)
