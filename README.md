@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/jahantaila" target="blank"><img src="https://img.shields.io/twitter/follow/jahantaila?logo=twitter&style=for-the-badge" alt="jahantaila" /></a> </p>
 
-- 🔨 I'm currently building Codera - the next era of coding education [Codera](codera.app)
+- 🔨 I'm currently building [Codera](codera.app) - hyper-fixated 21st century coding education backed by PE  
 
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 Learn more about me! [jahan.dev](jahan.dev)
 
-- 💬 Ask me about **hyper-fixated 21st century learning for kids**
+- 💬 Ask me about **the next era of coding education**
 
 - 📫 How to reach me **jahan@codera.app**
 
